@@ -1,5 +1,11 @@
 # Hva vi har lært – Uke 1
 
+## Introduksjon
+
+- Introduksjon av Ivan
+- Hva vi skal lære denne høsten
+- Hva gjør en app unik
+
 ## Swift
 
 - `let` – verdier som ikke skal endres
@@ -12,14 +18,14 @@
 
 ## SwiftUI
 
-- `Text`
-- `Image`
-- `Label`
-- `VStack`
-- `HStack`
-- `TabView`
-- `Divider`
-- `Spacer`
+- [`Text`](https://developer.apple.com/documentation/swiftui/text) – viser tekst
+- [`Image`](https://developer.apple.com/documentation/swiftui/image) – viser bilder
+- [`Label`](https://developer.apple.com/documentation/swiftui/label) – kombinerer ikon og tekst
+- [`VStack`](https://developer.apple.com/documentation/swiftui/vstack) – plasserer views vertikalt
+- [`HStack`](https://developer.apple.com/documentation/swiftui/hstack) – plasserer views horisontalt
+- [`TabView`](https://developer.apple.com/documentation/swiftui/tabview) – lager faner
+- [`Divider`](https://developer.apple.com/documentation/swiftui/divider) – lager en skillelinje
+- [`Spacer`](https://developer.apple.com/documentation/swiftui/spacer) – lager fleksibelt mellomrom
 
 ## Nye konsepter
 
