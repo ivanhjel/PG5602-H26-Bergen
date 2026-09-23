@@ -1,0 +1,60 @@
+//
+//  ContentView.swift
+//  SwiftHappens
+//
+//  Created by Ivan Lé Hjelmeland on 24/08/2026.
+//
+
+import SwiftUI
+
+struct ContentView: View {
+    
+    var body: some View {
+        TabView {
+            
+            Tab("Instagram", systemImage: "heart") {
+                NavigationStack {
+                    InstagramProfileView()
+                }
+            }
+            
+            Tab("Map", systemImage: "mountain.2.fill") {
+                MapView()
+            }
+            
+            Tab("Profil", systemImage: "graduationcap") {
+                NavigationStack {
+                    ProfileView()
+                }
+            }
+            
+            Tab("Tickets", systemImage: "bus.fill") {
+                NavigationStack {
+                    TicketsView()
+                }
+            }
+            
+            Tab("Popcorn", systemImage: "popcorn") {
+                NavigationStack {
+                    MoviesView()
+                }
+            }
+            
+            Tab("Pitch Black", systemImage: "heart.fill") {
+                NavigationStack {
+                    PokemonView()
+                }
+            }
+            
+            Tab("Tools", systemImage: "book.and.wrench") {
+                NavigationStack {
+                    APITesterView()
+                }
+            }
+        }
+    }
+}
+
+#Preview {
+    ContentView()
+}
