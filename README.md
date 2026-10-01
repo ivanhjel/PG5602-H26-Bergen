@@ -36,6 +36,12 @@ Repoet oppdateres underveis i semesteret, og hver uke får sin egen mappe. Måle
 * 💻 [Kode](./Uke-05/Kode)
 * ✏️ [Oppgaver](./Uke-05/OPPGAVER.md)
 
+### [Uke 06](./Uke-06)
+
+* 📖 [Hva vi har lært](./Uke-06/HVA-VI-HAR-LAERT.md)
+* 💻 [Kode](./Uke-06/Kode)
+* ✏️ [Oppgaver](./Uke-06/OPPGAVER.md)
+
 ---
 
 ## 💻 Kode
