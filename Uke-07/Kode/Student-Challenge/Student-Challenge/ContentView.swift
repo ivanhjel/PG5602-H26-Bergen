@@ -29,13 +29,13 @@ struct ContentView: View {
                         TV2PlayView()
                     }
                     
-                    /*NavigationLink("Norsk Tipping") {
+                    NavigationLink("Norsk Tipping") {
                         NorskTippingView()
                     }
                     
                     NavigationLink("Bulder Bank") {
                         BulderBankView()
-                    }*/
+                    }
                 }
             }
             .navigationTitle("Can we make it?")
