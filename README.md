@@ -59,6 +59,11 @@ Repoet oppdateres underveis i semesteret, og hver uke får sin egen mappe. Måle
 * 💻 [Kode](./Uke-09/Kode)
 * ✏️ [Oppgaver](./Uke-09/OPPGAVE_19_10_2026.pdf)
 
+### [Uke 10](./Uke-10)
+
+* 💻 [Kode](./Uke-10/Kode)
+* ✏️ [Oppgaver](./Uke-10/Oppgaver)
+
 ---
 
 ## 💻 Kode
